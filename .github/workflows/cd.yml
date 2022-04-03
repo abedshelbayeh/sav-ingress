@@ -13,7 +13,7 @@ jobs:
       - id: release
         uses: google-github-actions/release-please-action@v3
         with:
-          release-type: node
+          release-type: simple
           bump-minor-pre-major: true
           pull-request-title-pattern: 'chore: release ${version}'
 
