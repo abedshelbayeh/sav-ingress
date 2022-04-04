@@ -1,0 +1,10 @@
+apiVersion: networking.gke.io/v1
+kind: ManagedCertificate
+metadata:
+  name: managed-cert
+spec:
+  domains:
+    - stg.sav.shelbayeh.com
+    - stg.theretro.app
+    - stg.rtro.app
+    - stg.rtro.io
