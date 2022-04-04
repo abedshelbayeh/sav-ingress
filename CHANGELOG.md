@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.0](https://github.com/project-savvy/sav-ingress/compare/v0.2.0...v0.3.0) (2022-04-04)
+
+
+### Features
+
+* Redirect HTTP trafic to HTTPS ([7a65a9a](https://github.com/project-savvy/sav-ingress/commit/7a65a9a694ff62525d0b96e0fa494e0bdfd2d942))
+
 ## [0.2.0](https://github.com/project-savvy/sav-ingress/compare/v0.1.0...v0.2.0) (2022-04-04)
 
 
